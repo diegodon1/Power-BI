@@ -1,3 +1,5 @@
 # Power-BI
 
-Projeto de Power BI, foi criado um relatório interativo com botões e duas paginas de relatório com dados de vendas.
+Projeto de Power BI
+
+Foi criado um relatório interativo com botões e duas paginas com dados de vendas.
